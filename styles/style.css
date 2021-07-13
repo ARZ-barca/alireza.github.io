@@ -37,3 +37,7 @@ img {
     width: 512px;
     height: 288px;
 }
+button {
+    width: 200px;
+    height: 50px;
+}
